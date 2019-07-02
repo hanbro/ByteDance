@@ -1,0 +1,9 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--&lt;!&ndash;<selector xmlns:android="http://schemas.android.com/apk/res/android">&ndash;&gt;-->
+    <!--&lt;!&ndash;<animation-list xmlns:android="http://schemas.android.com/apk/res/android" &ndash;&gt;-->
+        <!--&lt;!&ndash;android:oneshot="true"> &ndash;&gt;-->
+        <!--&lt;!&ndash;<item android:drawable="@drawable/rocket_thrust1" android:duration="200" /> &ndash;&gt;-->
+        <!--&lt;!&ndash;<item android:drawable="@drawable/rocket_thrust2" android:duration="200" /> &ndash;&gt;-->
+        <!--&lt;!&ndash;<item android:drawable="@drawable/rocket_thrust3" android:duration="200" /> &ndash;&gt;-->
+    <!--&lt;!&ndash;</animation-list>&ndash;&gt;-->
+<!--&lt;!&ndash;</selector>&ndash;&gt;-->
