@@ -12,6 +12,13 @@
         android:layout_width="48dp"
         android:layout_height="48dp" />
 
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:Text="Try onClick"
+        />
     <Button
         android:id="@+id/btn_exercises1"
         android:layout_width="match_parent"

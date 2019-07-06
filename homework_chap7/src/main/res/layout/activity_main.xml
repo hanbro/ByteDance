@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_weight="1"/>
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:layout_below="@+id/surfaceView"
+        android:layout_gravity="center_vertical"/>
+
+    <Button
+        android:id="@+id/play"
+        android:text="play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seekbar"/>
+
+    <Button
+        android:text="pause"
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/seekbar"
+        android:layout_toRightOf="@+id/play"
+        android:layout_height="wrap_content"
+        android:id="@+id/pause"/>
+    <Button
+        android:text="select video"
+        android:id="@+id/select"
+        android:layout_below="@+id/play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btn_exercises3:
                 startActivity(new Intent(this, Exercises3.class));
                 break;
+            case R.id.tv1:
+                startActivity(new Intent(this, Exercises3.class));
         }
     }
     @Override
