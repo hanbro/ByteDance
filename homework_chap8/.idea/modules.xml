@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ByteDance.iml" filepath="$PROJECT_DIR$/../ByteDance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter4_restapi/chapter4_restapi.iml" filepath="$PROJECT_DIR$/../chapter4_restapi/chapter4_restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework/homework.iml" filepath="$PROJECT_DIR$/../homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework_chap3/homework_chap3.iml" filepath="$PROJECT_DIR$/../homework_chap3/homework_chap3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework_chap4/homework_chap4.iml" filepath="$PROJECT_DIR$/../homework_chap4/homework_chap4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework_chap5/homework_chap5.iml" filepath="$PROJECT_DIR$/../homework_chap5/homework_chap5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework_chap6/homework_chap6.iml" filepath="$PROJECT_DIR$/../homework_chap6/homework_chap6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework_chap7/homework_chap7.iml" filepath="$PROJECT_DIR$/../homework_chap7/homework_chap7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework_chap8.iml" filepath="$PROJECT_DIR$/homework_chap8.iml" />
+    </modules>
+  </component>
+</project>
